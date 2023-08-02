@@ -7,5 +7,6 @@ Please use XAMPP and apache to run the scripts and access http://localhost/your-
 
 For credits and further informations:
 
-https://code-boxx.com/simple-php-login-without-database/ 
+https://code-boxx.com/simple-php-login-without-database/
+
 and https://www.studentstutorial.com/php/login-logout-with-session for database initializing.
